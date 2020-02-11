@@ -1,0 +1,23 @@
+{
+  "name": "Demo_Boostrap4",
+  "version": "1.0.0",
+  "description": "responsive with boostrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranHoahb0310/Demo_Boostrap4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranHoahb0310/Demo_Boostrap4/issues"
+  },
+  "homepage": "https://github.com/TranHoahb0310/Demo_Boostrap4#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0"
+  }
+}
